@@ -25,7 +25,7 @@ Hi there!👋 I am a researcher and developer with an interdisciplinary backgrou
 
 ## 🌱 **Current Projects**
 - **Ph.D. Research:** Developing an efficient approach to include protein flexibility in protein-ligand docking experiments using the DockThor platform ([dockthor.lncc.br](https://dockthor.lncc.br)).  
-- **Bioinformatics:** Working on bioinformatics analysis and developing a new version of the Soybean Expression Atlas (link coming soon!).  
+- **Bioinformatics:** Working on bioinformatics analysis and developing a new version of the ([Soybean Expression Atlas](https://soyatlas.venanciogroup.uenf.br/)).  
 - **Personal Projects:** Creating tutorials and workshops to make science more accessible.  
 
 ---
