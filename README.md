@@ -32,7 +32,7 @@ Hi there!👋 I am a researcher, assistant professor and developer with an inter
 
 ## 🧘‍♀️ **Fun Facts About Me**
 When I'm not working on research, you can find me:  
-- Playing with my **pets** and enjoying a good cup of **coffee** ☕  
+- Playing with my **pets** and enjoying a good cup of **coffee** 🐈 🐶 ☕  
 - Exploring the art of **photography** 📸  
 - Practicing **yoga** for balance and mindfulness.  🧘‍♀️
 - Learning more about **wildlife** and **nature conservation** 🦁
@@ -40,10 +40,7 @@ When I'm not working on research, you can find me:
 ---
 
 ## 📫 **Let’s Connect!**
-- **[Lattes Curriculum](http://lattes.cnpq.br/6591634765844259)**  
-- **[ORCID](https://orcid.org/0000-0002-9071-2831)**  
-- **[ResearchGate](https://www.researchgate.net/profile/Ana-Martins-Karl)**  
-- **[LinkedIn](https://www.linkedin.com/in/aluizakarl)**  
+- **[Lattes Curriculum](http://lattes.cnpq.br/6591634765844259)**  •  **[ORCID](https://orcid.org/0000-0002-9071-2831)**  •  **[ResearchGate](https://www.researchgate.net/profile/Ana-Martins-Karl)**  •  **[LinkedIn](https://www.linkedin.com/in/aluizakarl)**  
 
 I love discussing science, technology, and education. Feel free to reach out here or through other professional networks.  
 
