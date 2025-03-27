@@ -1,5 +1,5 @@
-# 🌟 Welcome 🌟
-Hi there!👋 I am a researcher, assistant professor and developer with an interdisciplinary background, specializing in **molecular modeling**, **bioinformatics**, and **data analysis**. Here, you'll find projects that showcase my academic journey and passion for science and technology.
+Hi there!👋 
+I am a researcher, assistant professor and developer with an interdisciplinary background, specializing in **molecular modeling**, **bioinformatics**, and **data analysis**. Here, you'll find projects that showcase my academic journey and passion for science and technology.
 
 ---
 
