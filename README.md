@@ -1,4 +1,5 @@
 Hi there!👋 
+
 I am a researcher, assistant professor and developer with an interdisciplinary background, specializing in **molecular modeling**, **bioinformatics**, and **data analysis**. Here, you'll find projects that showcase my academic journey and passion for science and technology.
 
 ---
@@ -40,7 +41,3 @@ When I'm not working on research, you can find me:
 
 ## 📫 **Let’s Connect!**
 - **[Lattes Curriculum](http://lattes.cnpq.br/6591634765844259)**  •  **[ORCID](https://orcid.org/0000-0002-9071-2831)**  •  **[ResearchGate](https://www.researchgate.net/profile/Ana-Martins-Karl)**  •  **[LinkedIn](https://www.linkedin.com/in/aluizakarl)**  
-
-I love discussing science, technology, and education. Feel free to reach out here or through other professional networks.  
-
-👋  
