@@ -16,7 +16,7 @@ I am a researcher, assistant professor and developer with an interdisciplinary b
 
 ---
 
-## 💻 **Core Programming Languages**
+### 💻 **Core Programming Languages**
 - **Bash:** Scripting for task automation and computational analysis.  
 - **C/C++:** Scientific applications development.  
 - **Python:** Data analysis, machine learning, bioinformatics, and automation.  
