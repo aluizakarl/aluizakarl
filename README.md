@@ -27,8 +27,7 @@ I am a researcher, assistant professor and developer with an interdisciplinary b
 - **Ph.D. Research:** Developing an efficient approach to include protein flexibility in protein-ligand docking experiments using the DockThor platform ([dockthor.lncc.br](https://dockthor.lncc.br)).  
 - **Bioinformatics:** Working on bioinformatics analysis and developing a new version of the [Soybean Expression Atlas](https://soyatlas.venanciogroup.uenf.br/).  
 - **Personal Projects:** Creating tutorials and workshops to make science more accessible.  
-
----
+- **Web Development:** Designed and deployed the official [Venâncio Research Group website](https://venanciogroup.uenf.br/) using **Hugo**. 
 
 ### 🧘‍♀️ **Fun Facts About Me**
 When I'm not working on research, you can find me:  
