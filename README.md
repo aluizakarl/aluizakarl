@@ -24,7 +24,7 @@ I am a **researcher, assistant professor, and developer** with an interdisciplin
 
 ---
 
-### 🌱 **Current Projects**  
+### ⚛️ **Current Projects**  
 - **Ph.D. Research:** Protein flexibility in docking using the [DockThor](https://dockthor.lncc.br) platform  
 - **Bioinformatics:** Genomic and transcriptomic analysis, development of the [Soybean Expression Atlas](https://soyatlas.venanciogroup.uenf.br/)  
 - **GWAS Data Integration:** Development of a dataset for *Glycine max*, integrating phenotypic and genotypic data for traits of agronomic interest  
