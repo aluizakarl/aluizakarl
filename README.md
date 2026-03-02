@@ -90,11 +90,6 @@ I work at the intersection of **structural bioinformatics, transcriptomics, and 
 - **GWAS Data Integration:** Construction and integration of a GWAS-ready dataset for *Glycine max*, combining phenotypic and genotypic data for agronomic traits  
 - **Science Communication:** Development of tutorials, workshops, and educational materials to make computational science more accessible  
 - **Web Development:** Development and maintenance of the [Venâncio Research Group website](https://venanciogroup.uenf.br/) using Hugo  
-## 📊 GitHub Stats
-
----
-•  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aluizakarl&show_icons=true)
-• ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aluizakarl&layout=compact) • 
 
 ---
 
