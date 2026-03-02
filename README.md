@@ -1,4 +1,4 @@
-# 👩‍🔬 Ana Luiza Karl
+# Ana Luiza Karl
 
 Biomedical Scientist | PhD Candidate in Computational Modeling  
 Specialist in Computer-Aided Drug Design (CADD)  
@@ -25,8 +25,6 @@ I work at the intersection of **structural bioinformatics, transcriptomics, and 
 - Virtual screening strategies
 - Benchmark development and validation
 
-My doctoral research focuses on **advancing receptor flexibility methodologies in docking simulations**, improving predictive accuracy and robustness.
-
 ---
 
 ## 🧬 Bioinformatics & Data Science
@@ -36,9 +34,6 @@ My doctoral research focuses on **advancing receptor flexibility methodologies i
 - Large-scale biological dataset analysis
 - Integration of structural and omics data
 - Development of bioinformatics pipelines
-
-Currently contributing to:
-- 🌱 Development of the third version of the Soybean Expression Atlas
 
 ---
 
@@ -62,11 +57,21 @@ Currently contributing to:
 ### Molecular Modeling & Computational Tools
 - Molecular docking programs and platforms
 - Structural modeling tools
+- Basic experience in Molecular Dynamics and Normal Mode Analysis
 - Linux/Bash environments
 - Workflow automation
 - Git & GitHub
+   
+### 🧬 Bioinformatics & Transcriptomics
+- Large-scale RNA-Seq data retrieval and processing
+- Download and curation of public NGS datasets
+- Differential gene expression analysis
+- Exploratory transcriptome analysis
+- Integration of structural and omics data
+- GWAS database construction and data organization
+- Development of reproducible bioinformatics pipelines
 - Docker
-
+  
 ---
 
 ## 🎓 Academic & Professional Role
@@ -78,19 +83,25 @@ Currently contributing to:
 
 ---
 
+### ⚛️ Current Projects  
+
+- **Ph.D. Research:** Advancing receptor flexibility modeling in molecular docking using the [DockThor](https://dockthor.lncc.br) platform  
+- **Bioinformatics & Transcriptomics:** Large-scale genomic and RNA-Seq data analysis; development of the [Soybean Expression Atlas](https://soyatlas.venanciogroup.uenf.br/)  
+- **GWAS Data Integration:** Construction and integration of a GWAS-ready dataset for *Glycine max*, combining phenotypic and genotypic data for agronomic traits  
+- **Science Communication:** Development of tutorials, workshops, and educational materials to make computational science more accessible  
+- **Web Development:** Development and maintenance of the [Venâncio Research Group website](https://venanciogroup.uenf.br/) using Hugo  
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aluizakarl&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aluizakarl&layout=compact)
+---
+•  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aluizakarl&show_icons=true)
+• ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aluizakarl&layout=compact) • 
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: (https://www.linkedin.com/in/aluizakarl)
-- ORCID: (https://orcid.org/0000-0002-9071-2831)
-- Lattes: (http://lattes.cnpq.br/6591634765844259)
-- ResearchGate: (https://www.researchgate.net/profile/Ana-Martins-Karl)
+- **[Lattes Curriculum](http://lattes.cnpq.br/6591634765844259)** • **[ORCID](https://orcid.org/0000-0002-9071-2831)** • **[ResearchGate](https://www.researchgate.net/profile/Ana-Martins-Karl)** • **[LinkedIn](https://www.linkedin.com/in/aluizakarl)**  • 
+
 - Email: almk.karl@gmail.com
 
 ---
