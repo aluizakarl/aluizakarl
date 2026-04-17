@@ -1,6 +1,6 @@
 # Ana Luiza Karl
 
-Biomedical Scientist | PhD Candidate in Computational Modeling  
+Biomedical Scientist | MSc and PhD in Computational Modeling  
 Specialist in Computer-Aided Drug Design (CADD)  
 Bioinformatics, Molecular Modeling & AI  
 
